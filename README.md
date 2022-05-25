@@ -42,7 +42,14 @@ Web Developer and technology freak
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/costa320#5347" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/costa320" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/costa320" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/constantin-iacovlev-6a8655151/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UC55DDu7upLwuG_v9Jw-YEMw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
 ### Badges
+
+<p align="left">
+  <a href="https://www.codewars.com/users/costa320/badges/large" target="_blank" rel="noreferrer">
+    <img src="https://www.codewars.com/users/costa320/badges/large" width="32" height="32" />
+  </a> 
+</p>
 
 <b>My GitHub Stats</b>
 
