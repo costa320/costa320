@@ -47,7 +47,7 @@ Web Developer and technology freak
 
 <p align="left">
   <a href="https://www.codewars.com/users/costa320/badges/large" target="_blank" rel="noreferrer">
-    <img src="https://www.codewars.com/users/costa320/badges/large" width="32" height="32" />
+    <img src="https://www.codewars.com/users/costa320/badges/large" width="400" height="100" />
   </a> 
 </p>
 
